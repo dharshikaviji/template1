@@ -115,7 +115,7 @@ main figcaption button{
 .footer-links{
     display: flex;
     justify-content: space-evenly;
-    gap: 100px;
+    gap: 10px;
 }
 .footer-links a{
     text-decoration: none;
